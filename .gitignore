@@ -1,0 +1,8 @@
+# 依赖目录
+FrontEnd/node_modules/
+
+# 可选：IDE 配置（根据实际使用的编辑器添加）
+.vscode/
+.idea/
+.trae/
+
