@@ -17,6 +17,7 @@
       3. 数据库: **SQLite + ChromaDB (内存/本地模式)**
       4. 部署: **单个云服务器 + Caddy/Nginx** 或 **Vercel/Netlify/Hugging Face Spaces**
    2. 前端
+      1. 包管理器: pnpm
       1. 使用typescript作为编程语言(但是初期可能使用JavaScript)
       1. 框架: vue
       2. 项目管理工具: vite
